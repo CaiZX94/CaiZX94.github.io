@@ -5,7 +5,7 @@
   "display": "standalone",
   "background_color": "#2196f3",
   "description": "蔡泽欣的个人主页",
-  "theme_color": "blue",
+  "theme_color": "oringe",
   "icons": [
     {
       "src": "./logo.jpg",
